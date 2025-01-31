@@ -83,8 +83,7 @@ HoloWear’s prototyping process integrates creativity and user-centric methodol
 
    Figma Prototype Link: https://www.figma.com/design/mRvbpVsqD3rcw34z4JOf4H/HoloWear?node-id=35-1851&t=Bx2YTtI1ujoA0UKs-1
 
-   https://www.figma.com/proto/mRvbpVsqD3rcw34z4JOf4H/HoloWear?node-id=35-4638&t=Bx2YTtI1ujoA0UKs-0&scaling=min-zoom&content-scaling=fixed&page-id=35%3A0&starting-point-node-id=35%3A4638
-
+https://www.figma.com/proto/mRvbpVsqD3rcw34z4JOf4H/HoloWear?node-id=35-4638&p=f&t=GHPK9uW7QJDm5tFv-0&scaling=min-zoom&content-scaling=fixed&page-id=35%3A0&starting-point-node-id=35%3A4638
 ---
 
 ### **Why HoloWear Stands Out**
